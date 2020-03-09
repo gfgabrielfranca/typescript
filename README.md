@@ -1,0 +1,2 @@
+# typescript
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ff5d8d7f90b1443f901b81f9bbc669d7)](https://app.codacy.com/manual/gfgabrielfranca/typescript?utm_source=github.com&utm_medium=referral&utm_content=gfgabrielfranca/typescript&utm_campaign=Badge_Grade_Dashboard)
